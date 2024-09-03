@@ -1,6 +1,0 @@
-MySQL Shell
-\sql
-\connect root@localhost:3306
-
-Command line
-mysql username -u path_to_directory
